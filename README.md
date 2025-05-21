@@ -37,4 +37,4 @@ This project implements Ultimate Tic Tac Toe, an advanced variant of the classic
 
 ## How to run the game
 ```sh
-python3 ultimate_tictactoe.py
+python3 project.py
